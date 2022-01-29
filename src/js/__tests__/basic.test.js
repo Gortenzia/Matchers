@@ -1,7 +1,6 @@
 // eslint-disable-next-line import/extensions
 import construction from '../basic.js';
 
-
 test('Проверка вывода персоонажей по количеству здоровья', () => {
   const Arr = [
     { name: 'мечник', health: 10 },

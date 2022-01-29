@@ -1,7 +1,6 @@
 {
-  "name": "matchers",
+  "name": "matchers2",
   "version": "1.0.0",
-  "description": "jest --coverage",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -41,14 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gortenzia/Unit-test.git"
+    "url": "git+https://github.com/Gortenzia/Matchers2.git"
   },
-  "keywords": [
-    "jest",
-    "--coverage"
-  ],
   "bugs": {
-    "url": "https://github.com/Gortenzia/Unit-test/issues"
+    "url": "https://github.com/Gortenzia/Matchers2/issues"
   },
-  "homepage": "https://github.com/Gortenzia/Unit-test#readme"
+  "homepage": "https://github.com/Gortenzia/Matchers2#readme",
+  "description": ""
 }
